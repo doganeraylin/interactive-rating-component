@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid rgb(159, 224, 7); */
+    box-sizing: border-box;
+    
+}
+
+
+.body {
+    background-color: hsl(216, 12%, 8%);
+}
+
+.container,
+.thank-you-container {
+    background-color: hsl(213, 19%, 18%);
+    margin: 2rem 3rem;
+    width: 50%;
+}
+
+.star-sign {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons p {
+    background-color: hsl(216, 12%, 54%);
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+.buttons p:hover {
+    background-color: orangered;
+}
+
+
+.title {
+    color: white;
+    margin-left: 1.5rem;
+}
+
+.text {
+    color:hsl(216, 12%, 54%);
+    margin: 1.5rem;
+}
+
+
+
+
+
+
+#btn:hover {
+    background-color: white;
+    color: hsl(25, 97%, 53%);
+}
+
+
+.thank-you-img {
+    text-align: center;
+    padding: 1rem;
+}
+.thank-you-rating {
+    
+    color: hwb(25 7% 2%);
+    text-align: center;
+
+}
+.thank-you-header,
+.thank-you-text {
+color: white;
+margin: 1rem;
+padding: 1rem;
+text-align: center;
+}
+
+.thank-you-text {
+    padding-bottom: 1.5rem;
+    
+}
+
+/*  */
+
+input {
+    visibility: hidden;
+}
+
+.numberLabel {
+    background-color: hsl(216, 12%, 54%);
+    opacity: 50%;
+    padding: 1rem;
+    border-radius: 100%;
+}
+
+label {
+    cursor: pointer;
+}
+
+
+
+p.active {
+    background-color:orangered;
+}
