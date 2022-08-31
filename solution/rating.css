@@ -127,3 +127,36 @@ footer {
     margin-top: 3rem;
     color: var(--light-grey);
 }
+
+
+@media (min-width: 768px) {
+    .container {
+        width: 50%;
+        margin: 0 auto;
+    }
+    .title,
+    .text {
+        text-align: center;
+    }
+    #submit-button {
+        width: 30%;
+        margin: 1rem auto;
+    }
+
+    .footer {
+        margin: 5rem;
+    }
+}
+
+@media (min-width: 600px) {
+    .container {
+        width: 70%;
+        margin: 0 auto;
+        
+    }
+    .title,
+    .text {
+       text-align: center;
+        
+    }
+}
