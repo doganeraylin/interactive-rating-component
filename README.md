@@ -4,7 +4,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ( https://doganeraylin.github.io/interactive-rating-component/)
 
 
 
@@ -22,6 +22,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript
 - Flexbox
 - Mobile-first workflow
 
