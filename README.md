@@ -4,7 +4,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: ( https://doganeraylin.github.io/interactive-rating-component/)
+- Live Site URL: ( https://interactive-rating-component-aylin.netlify.app/)
 
 
 
