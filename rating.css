@@ -22,10 +22,14 @@ body {
 .container,
 .thank-you-container {
     background-color: var(--dark-blue);
-    margin: 2rem;
     border-radius: 1rem;
+    max-width: 500px;
+    /* border: 2px solid green; */
 }
 
+.thank-you-container {
+    border: 2px solid yellow;
+}
 
 .star-sign {
     padding: 1rem;
@@ -148,15 +152,18 @@ footer {
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 300px) {
     .container {
-        width: 70%;
+        width: 90%;
         margin: 0 auto;
         
     }
     .title,
     .text {
        text-align: center;
-        
+    }
+    #submit-button {
+        width: 30%;
+        margin: 1rem auto;
     }
 }
