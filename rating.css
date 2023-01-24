@@ -24,11 +24,6 @@ body {
     background-color: var(--dark-blue);
     border-radius: 1rem;
     max-width: 500px;
-    /* border: 2px solid green; */
-}
-
-.thank-you-container {
-    border: 2px solid yellow;
 }
 
 .star-sign {
