@@ -24,6 +24,7 @@ body {
     background-color: var(--dark-blue);
     border-radius: 1rem;
     max-width: 500px;
+    margin-top: 50px;
 }
 
 .star-sign {
